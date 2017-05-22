@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PharmaLab</string>
+    <string name="search_hint">Я ищу</string>
+    <string name="title_activity_searchable">Препараты</string>
+    <string name="title_activity_detail">Описание</string>
+    <string name="instruction">Наберите название препарата</string>
+    <string name="nothing_found">По вашему запросу ничего не найдено</string>
+</resources>
